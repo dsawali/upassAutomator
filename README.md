@@ -3,7 +3,7 @@ A BC U-Pass Automator for Personal Use
 
 Dependencies:
 
-pip install selenium
+`pip install selenium`
 
 
 This Python script does a crawl through the U-Pass BC website to update my U-Pass status every month with one click.
