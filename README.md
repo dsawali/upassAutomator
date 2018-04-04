@@ -3,7 +3,7 @@ A U-Pass Automator for Personal Use
 
 ### Application Description
 The application goes through the U-Pass website and updates my U-Pass given the valid username and password.
-After using the program, the user needs to wait for a few days until the U-Pass are approved.
+After using the program, the user needs to wait for a few days until the U-Pass is approved.
 
 ### Dependencies:
 
