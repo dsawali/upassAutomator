@@ -27,5 +27,5 @@ password_input.send_keys(password)
 
 driver.find_element_by_xpath("//input[@type='submit']").click()
 
-
-
+driver.find_element_by_id('chk_1').click()
+driver.find_element_by_id('requestButton').click()
