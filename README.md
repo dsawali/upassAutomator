@@ -9,7 +9,11 @@ After using the program, the user needs to wait for a few days until the U-Pass 
 
 ### Dependencies:
 
-`pip install selenium`
+`pip3 install selenium`
+
+### Guide:
+Inside the program directory, run this following command from the terminal:
+`python3 upass.py <username> <password>`
 
 TODO: 
 Set up the script to run on the 16th of every month.
